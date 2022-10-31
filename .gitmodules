@@ -1,3 +1,6 @@
 [submodule "modules/DailyXKCD"]
 	path = modules/DailyXKCD
 	url = https://github.com/Blastitt/DailyXKCD.git
+[submodule "modules/MMM-WordOfTheDaycd[A"]
+	path = modules/MMM-WordOfTheDaycd[A
+	url = https://github.com/jmwyds/MMM-WordOfTheDay.git
