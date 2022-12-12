@@ -116,6 +116,19 @@ let config = {
 				showTitle: true,
 				showAltText: true
 			}
+		},
+
+		{
+			module: "MMM-Strava",
+			position: "bottom_right",
+			config: {
+				client_id: "client_id",
+				client_secret: "client_secret",
+				mode: "chart",
+				chartType: "bar",
+				activities: ["run"],
+				digits: 2
+			}
 		}
 	]
 };
