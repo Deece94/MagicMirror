@@ -4,3 +4,6 @@
 [submodule "modules/MMM-WordOfTheDaycd[A"]
 	path = modules/MMM-WordOfTheDaycd[A
 	url = https://github.com/jmwyds/MMM-WordOfTheDay.git
+[submodule "modules/MMM-Strava"]
+	path = modules/MMM-Strava
+	url = https://github.com/ianperrin/MMM-Strava.git
